@@ -1,2 +1,2 @@
 # SNA-AH-NLU-Testing-Across-Platforms
-NLU and Sentiment Testing across social media platforms on AH data
+Natural Language Understanding/Processing and Sentiment Testing across social media platforms on AH data using Scientific Methods
