@@ -1,4 +1,4 @@
-# SNA-AH-NLU-Testing-Across-Platforms
+# SNA-AH-NLU-Labeling-Cross-Platforms
 Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on AH data using Scientific Methods
 
 1. Twitter
