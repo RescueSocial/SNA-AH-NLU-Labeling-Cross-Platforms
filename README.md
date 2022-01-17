@@ -10,4 +10,4 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 
 Version 1 NLU Trained on data from: Twitter, Facebook, Change.org primarily with some YouTube and Reddit
 
-NLU engines, classifications, training.
+NLU engines, monitoring, classifications, training.
