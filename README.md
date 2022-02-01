@@ -1,7 +1,9 @@
 # Amber-Heard_Disinformation_Operations_Bots
 Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on Amber Heard data using Scientific Methods. <br><b>NLU engines, monitoring, classifications, training.</b>
 
-- Twitter, Reddit. Instagram, YouTube, Change.org, Facebook Analysis and Data
+- Twitter, Reddit. Instagram, YouTube, Change.org, Facebook 
+
+<br>Analysis Testing and Data
 
 ---------
 Below on Main GitHub
