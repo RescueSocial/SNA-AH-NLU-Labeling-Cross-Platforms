@@ -1,5 +1,6 @@
 # Amber-Heard_Disinformation_Operations_Bots
-Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on Amber Heard data using Scientific Methods. <br><b>NLU engines, monitoring, classifications, training.</b>
+Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on Amber Heard data using Scientific Methods. <b>NLU engines, monitoring, classifications, training.</b>
+<br>Marks the semantics/meaning of the texts of support, defense, offense, defense_against and supporters/offenders around her environment.
 
 - Twitter, Reddit. Instagram, YouTube, Change.org, Facebook 
 
@@ -7,9 +8,10 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 
 ---------
 Below on Main GitHub
-- Mainy Support and Defense Data included, as well as Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled files
+
+- <b>Support and Defense Data included, as well as Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled training</b>
 - Monitoring and Dashboards included
-- Instagram threat analysis includes Both Crime | Human Trafficking words analysis
+- Instagram threat analysis includes Both <a href="https://myvocabulary.com/word-list/crime-vocabulary">Crime</a> | <a href="https://myvocabulary.com/word-list/human-trafficking-vocabulary">Human Trafficking</a> words analysis with NLU testing
 - Testing data is flooded with harms 
 
 <i><b>Labels are:</b> support, defense, offense, defense_against (focused on victim - target of operations)</i>
@@ -53,4 +55,3 @@ Version NLU Trained on Data from: Twitter, Facebook, Change.org primarily with s
 
 <b>- This is under Natural Language Understanding, deeper than NLP and using Artificial Intelligence training on a GPU</b>
 <br><i>A further development would be multi-agent modeling and creating simulations with 'action-trees' of perpetrators and victim, supporters and offenders.</i>
-
