@@ -9,7 +9,7 @@ Analysis Testing and Data
 Below on Main GitHub
 
 <b>Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on Amber Heard data using Scientific Methods - </b><i>NLU engines, monitoring, classifications, training.</i>
-<br>Automatic NLU Programs label help or harm to her with semantics/meaning/NLP of the texts of support, defense, offense, defense_against and the supporters/offenders accounts around her environment.</b> 
+<br>Automatic Programs label help or harm to her with semantics/meaning/NLP of the texts of support, defense, offense, defense_against and supporters/offenders accounts around her environment.</b> 
 <br>-> Threat analysis, negative texts, and specific word filtering related to the disinformation operations is applied in further analysis.
 
 - Data and Analysis of Twitter, Reddit, Instagram, YouTube, Change.org, Facebook
