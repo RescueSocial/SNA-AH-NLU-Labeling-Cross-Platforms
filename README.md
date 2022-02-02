@@ -9,10 +9,18 @@ Analysis Testing and Data
 ---------
 Below on Main GitHub
 
+<b>Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on Amber Heard data using Scientific Methods - </b><i>NLU engines, monitoring, classifications, training.</i>
+<br>Automatic Programs label help or harm to her with semantics/meaning/NLP of the texts of support, defense, offense, defense_against and the supporters/offenders accounts around her environment.</b> 
+<br>-> Threat analysis, negative texts, and specific word filtering related to the disinformation operations is applied in further analysis.
+
+- Data and Analysis of Twitter, Reddit, Instagram, YouTube, Change.org, Facebook
 - <b>Support and Defense Data included, as well as Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled training</b>
+<br>-> 10K NLG created Supportive Compliments of her from Semiosis is included for comparison of labeled texts vs articulate compliments from <a href="https://github.com/mullikine/positive-nlg-compliments">AI</a> - Compare density and prompt-based similarities
 - Monitoring and Dashboards included
-- Instagram threat analysis includes Both <a href="https://myvocabulary.com/word-list/crime-vocabulary">Crime</a> | <a href="https://myvocabulary.com/word-list/human-trafficking-vocabulary">Human Trafficking</a> words analysis with NLU testing
+- Instagram threat analysis includes both <a href="https://myvocabulary.com/word-list/crime-vocabulary">Crime</a> | <a href="https://myvocabulary.com/word-list/human-trafficking-vocabulary">Human Trafficking</a> words analysis with NLU testing
 - Testing data is flooded with harms 
+- High volumes apply: With the monitoring NLU, there were 122K auto-labeled tweets by June 2021 and over tens of thousands of accounts from one monitoring account. Increase of harmful volume increases risks and amounts affect her wellbeing.
+<i>-> Correlate meaning to quantifications</i>
 
 <i><b>Labels are:</b> support, defense, offense, defense_against (focused on victim - target of operations)</i>
 
@@ -23,7 +31,7 @@ Below on Main GitHub
 <br>Similar to <a href="https://www.chess.com/article/view/chess-tactics">Chess-Tactics</a>, however, in dynamic context of coercive control or warfare-operations. Our goal is to mitigate the operations.
 
 <b>Natural Language Understanding:</b>
-- A BERT File under config shows BERT for Amber Heard NLP training
+- A BERT File under config shows <a href="https://github.com/google-research/bert">BERT</a> for Amber Heard NLP training
 - There are Dashboard code files in Javascript. The requirements are Reactjs, Javascript, and Django languages
 - Package examples and how to train NLU is included - e.g., <a href="https://www.nltk.org/">nltk_data</a>
 - Supporters and Offenders are marked by the numbers of tweets using the NLU classifications
@@ -54,4 +62,4 @@ Version NLU Trained on Data from: Twitter, Facebook, Change.org primarily with s
 <b>Monitoring is easier than responding with NLG,</b> hence, 'like-bots' are easier to create, and there are many of them. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
 
 <b>- This is under Natural Language Understanding, deeper than NLP and using Artificial Intelligence training on a GPU</b>
-<br><i>A further development would be multi-agent modeling and creating simulations with 'action-trees' of perpetrators and victim, supporters and offenders.</i>
+<br><i>A further development would be Multi-Agent Modeling and creating Simulations with 'Action-Trees' of perpetrators and victim, supporters and offenders.</i>
