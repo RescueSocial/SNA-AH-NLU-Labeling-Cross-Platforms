@@ -9,13 +9,14 @@ Analysis Testing and Data
 ---------
 Below on Main GitHub
 
-<b>Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on Amber Heard data using Scientific Methods - </b><i>NLU engines, monitoring, classifications, training.</i>
-<br>Labeling Texts and Accounts - Automatic programs label help or harm to her with semantics/meaning/NLP of the texts for categories of support, defense, offense, defense_against and label supporters/offenders accounts around her environment.</b> 
+<b>Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on Amber Heard data using Scientific Methods - <i>NLU engines, monitoring, classifications, training.</i></b>
+<br><b>Labeling Texts and Accounts</b> - Automatic programs label help or harm to her using semantics/meaning/NLP of the texts for categories of support, defense, offense, defense_against and label supporters/offenders accounts around her environment.</b>
 <br>-> Threat analysis, negative texts, and specific word filtering related to the disinformation operations is applied in further analysis.
 
 <b>Data and Analysis of Twitter, Reddit, Instagram, YouTube, Change.org, Facebook</b>
 - <b>Support and Defense Data included, as well as Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled training</b>
 <br>-> 10K NLG created Supportive Compliments of her from Semiosis is included for comparison of labeled texts vs articulate compliments from <a href="https://github.com/mullikine/positive-nlg-compliments">AI</a>. Compare density and prompt-based similarities
+<br> -> In context of domestic abuse, it's important to show what is supportive and positive in relationships through support, defense, compliments, and love texts. <i>The adversiarial framework of operations or tactic strategy is further a layer. </i>
 - Monitoring and Dashboards included
 - Instagram threat analysis includes both <a href="https://myvocabulary.com/word-list/crime-vocabulary">Crime</a> | <a href="https://myvocabulary.com/word-list/human-trafficking-vocabulary">Human Trafficking</a> words analysis with NLU testing
 - Testing data is flooded with harms 
@@ -26,7 +27,6 @@ Below on Main GitHub
 
 <i>Data used in NLU Testing Analysis is in /Testing Data folder</i>
 <br>Dashboard files show of using program to run the monitoring bot. Monitoring js files are included.
-- In context of domestic abuse, it's important to show what is supportive and positive in relationships through support, defense, compliments, and love texts. <i>The adversiarial framework of operations or tactic strategy is further a layer. </i>
 - Papers are provided under Guides to NLU and "Studying Technologies" in Background - Preliminary Effects folder. E.g., Argumentation research and Logic.
 <br>Similar to <a href="https://www.chess.com/article/view/chess-tactics">Chess-Tactics</a>, however, in dynamic context of coercive control or warfare-operations. Our goal is to mitigate the operations.
 
