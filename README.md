@@ -8,11 +8,12 @@ Analysis Testing and Data
 ---------
 Below on Main GitHub
 
+# SNA-AH-NLU-Labeling-Cross-Platforms
 <b>Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on Amber Heard data using Scientific Methods - </b><i>NLU engines, monitoring, classifications, training.</i>
-<br>Automatic Programs label help or harm to her with semantics/meaning/NLP of the texts of support, defense, offense, defense_against and supporters/offenders accounts around her environment.</b> 
+- Automatic programs label help or harm to her with semantics/meaning/NLP of the texts of support, defense, offense, defense_against and the supporters/offenders accounts around her environment.</b> 
 <br>-> Threat analysis, negative texts, and specific word filtering related to the disinformation operations is applied in further analysis.
 
-- Data and Analysis of Twitter, Reddit, Instagram, YouTube, Change.org, Facebook
+<b>Data and Analysis of Twitter, Reddit, Instagram, YouTube, Change.org, Facebook</b>
 - <b>Support and Defense Data included, as well as Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled training</b>
 <br>-> 10K NLG created Supportive Compliments of her from Semiosis is included for comparison of labeled texts vs articulate compliments from <a href="https://github.com/mullikine/positive-nlg-compliments">AI</a>. Compare density and prompt-based similarities
 - Monitoring and Dashboards included
@@ -54,7 +55,7 @@ There is an NLU dashboard tester using the api for the trained NLU.
 
 Version NLU Trained on Data from: Twitter, Facebook, Change.org primarily with some YouTube and Reddit
 1. First example (old nlpengine) is 2 classifications only of love or hate - quickly seen as not accurate and to move to an offense, defense, support strategy with multiclassification 
-2. Second example, more accurate for nlp engine is multiclassifier - support, defense, offense, defense_against (focused on victim - target of operations) - trained on 12.4K texts
+2. Second example, more accurate for nlp engine is <b>multiclassifier</b> - support, defense, offense, defense_against (focused on victim - target of operations) - trained on 12.4K texts
 <br><i>Supporters both support and defend. Offenders offend and defense_against. 
 <br>Support is completely focused on uplifting her, while defense includes constructive words to defend and support her. Offense is purely harmful towards her while defense_against includes support of her adversary.</i>
 
